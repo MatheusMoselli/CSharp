@@ -1,0 +1,12 @@
+C:\csharp\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.exe
+C:\csharp\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.deps.json
+C:\csharp\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.json
+C:\csharp\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.dev.json
+C:\csharp\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.dll
+C:\csharp\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.pdb
+C:\csharp\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfoInputs.cache
+C:\csharp\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfo.cs
+C:\csharp\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.CoreCompileInputs.cache
+C:\csharp\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.dll
+C:\csharp\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.pdb
+C:\csharp\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.genruntimeconfig.cache

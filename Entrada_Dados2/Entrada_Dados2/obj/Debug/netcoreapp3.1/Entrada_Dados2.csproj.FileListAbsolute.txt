@@ -1,0 +1,12 @@
+C:\csharp\Entrada_Dados2\Entrada_Dados2\bin\Debug\netcoreapp3.1\Entrada_Dados2.exe
+C:\csharp\Entrada_Dados2\Entrada_Dados2\bin\Debug\netcoreapp3.1\Entrada_Dados2.deps.json
+C:\csharp\Entrada_Dados2\Entrada_Dados2\bin\Debug\netcoreapp3.1\Entrada_Dados2.runtimeconfig.json
+C:\csharp\Entrada_Dados2\Entrada_Dados2\bin\Debug\netcoreapp3.1\Entrada_Dados2.runtimeconfig.dev.json
+C:\csharp\Entrada_Dados2\Entrada_Dados2\bin\Debug\netcoreapp3.1\Entrada_Dados2.dll
+C:\csharp\Entrada_Dados2\Entrada_Dados2\bin\Debug\netcoreapp3.1\Entrada_Dados2.pdb
+C:\csharp\Entrada_Dados2\Entrada_Dados2\obj\Debug\netcoreapp3.1\Entrada_Dados2.AssemblyInfoInputs.cache
+C:\csharp\Entrada_Dados2\Entrada_Dados2\obj\Debug\netcoreapp3.1\Entrada_Dados2.AssemblyInfo.cs
+C:\csharp\Entrada_Dados2\Entrada_Dados2\obj\Debug\netcoreapp3.1\Entrada_Dados2.csproj.CoreCompileInputs.cache
+C:\csharp\Entrada_Dados2\Entrada_Dados2\obj\Debug\netcoreapp3.1\Entrada_Dados2.dll
+C:\csharp\Entrada_Dados2\Entrada_Dados2\obj\Debug\netcoreapp3.1\Entrada_Dados2.pdb
+C:\csharp\Entrada_Dados2\Entrada_Dados2\obj\Debug\netcoreapp3.1\Entrada_Dados2.genruntimeconfig.cache

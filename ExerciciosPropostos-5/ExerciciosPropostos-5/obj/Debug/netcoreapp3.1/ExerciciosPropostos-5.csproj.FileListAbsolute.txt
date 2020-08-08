@@ -1,0 +1,12 @@
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\bin\Debug\netcoreapp3.1\ExerciciosPropostos-5.exe
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\bin\Debug\netcoreapp3.1\ExerciciosPropostos-5.deps.json
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\bin\Debug\netcoreapp3.1\ExerciciosPropostos-5.runtimeconfig.json
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\bin\Debug\netcoreapp3.1\ExerciciosPropostos-5.runtimeconfig.dev.json
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\bin\Debug\netcoreapp3.1\ExerciciosPropostos-5.dll
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\bin\Debug\netcoreapp3.1\ExerciciosPropostos-5.pdb
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\obj\Debug\netcoreapp3.1\ExerciciosPropostos-5.AssemblyInfoInputs.cache
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\obj\Debug\netcoreapp3.1\ExerciciosPropostos-5.AssemblyInfo.cs
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\obj\Debug\netcoreapp3.1\ExerciciosPropostos-5.csproj.CoreCompileInputs.cache
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\obj\Debug\netcoreapp3.1\ExerciciosPropostos-5.dll
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\obj\Debug\netcoreapp3.1\ExerciciosPropostos-5.pdb
+C:\csharp\ExerciciosPropostos-5\ExerciciosPropostos-5\obj\Debug\netcoreapp3.1\ExerciciosPropostos-5.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\bin\Debug\netcoreapp3.1\ExerciciosPropostos-6.exe
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\bin\Debug\netcoreapp3.1\ExerciciosPropostos-6.deps.json
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\bin\Debug\netcoreapp3.1\ExerciciosPropostos-6.runtimeconfig.json
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\bin\Debug\netcoreapp3.1\ExerciciosPropostos-6.runtimeconfig.dev.json
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\bin\Debug\netcoreapp3.1\ExerciciosPropostos-6.dll
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\bin\Debug\netcoreapp3.1\ExerciciosPropostos-6.pdb
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\obj\Debug\netcoreapp3.1\ExerciciosPropostos-6.AssemblyInfoInputs.cache
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\obj\Debug\netcoreapp3.1\ExerciciosPropostos-6.AssemblyInfo.cs
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\obj\Debug\netcoreapp3.1\ExerciciosPropostos-6.csproj.CoreCompileInputs.cache
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\obj\Debug\netcoreapp3.1\ExerciciosPropostos-6.dll
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\obj\Debug\netcoreapp3.1\ExerciciosPropostos-6.pdb
+C:\csharp\ExerciciosPropostos-6\ExerciciosPropostos-6\obj\Debug\netcoreapp3.1\ExerciciosPropostos-6.genruntimeconfig.cache

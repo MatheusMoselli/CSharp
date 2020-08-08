@@ -1,0 +1,13 @@
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\bin\Debug\netcoreapp3.1\ExerciciosPropostos-1.exe
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\bin\Debug\netcoreapp3.1\ExerciciosPropostos-1.deps.json
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\bin\Debug\netcoreapp3.1\ExerciciosPropostos-1.runtimeconfig.json
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\bin\Debug\netcoreapp3.1\ExerciciosPropostos-1.runtimeconfig.dev.json
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\bin\Debug\netcoreapp3.1\ExerciciosPropostos-1.dll
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\bin\Debug\netcoreapp3.1\ExerciciosPropostos-1.pdb
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.csprojAssemblyReference.cache
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.AssemblyInfoInputs.cache
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.AssemblyInfo.cs
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.csproj.CoreCompileInputs.cache
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.dll
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.pdb
+C:\csharp\ExerciciosPropostos-1\ExerciciosPropostos-1\obj\Debug\netcoreapp3.1\ExerciciosPropostos-1.genruntimeconfig.cache
