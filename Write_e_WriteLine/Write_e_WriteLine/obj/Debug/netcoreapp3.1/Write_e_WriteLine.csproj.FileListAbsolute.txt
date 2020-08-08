@@ -1,0 +1,13 @@
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\bin\Debug\netcoreapp3.1\Write_e_WriteLine.exe
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\bin\Debug\netcoreapp3.1\Write_e_WriteLine.deps.json
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\bin\Debug\netcoreapp3.1\Write_e_WriteLine.runtimeconfig.json
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\bin\Debug\netcoreapp3.1\Write_e_WriteLine.runtimeconfig.dev.json
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\bin\Debug\netcoreapp3.1\Write_e_WriteLine.dll
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\bin\Debug\netcoreapp3.1\Write_e_WriteLine.pdb
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.csprojAssemblyReference.cache
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.AssemblyInfoInputs.cache
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.AssemblyInfo.cs
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.csproj.CoreCompileInputs.cache
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.dll
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.pdb
+C:\csharp\Write_e_WriteLine\Write_e_WriteLine\obj\Debug\netcoreapp3.1\Write_e_WriteLine.genruntimeconfig.cache
