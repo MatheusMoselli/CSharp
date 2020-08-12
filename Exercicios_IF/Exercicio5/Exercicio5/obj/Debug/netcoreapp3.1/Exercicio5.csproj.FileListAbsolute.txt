@@ -1,0 +1,13 @@
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.exe
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.deps.json
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.runtimeconfig.json
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.runtimeconfig.dev.json
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.dll
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.pdb
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.csprojAssemblyReference.cache
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.AssemblyInfoInputs.cache
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.AssemblyInfo.cs
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.csproj.CoreCompileInputs.cache
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.dll
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.pdb
+C:\csharp\Exercicios_IF\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.genruntimeconfig.cache
