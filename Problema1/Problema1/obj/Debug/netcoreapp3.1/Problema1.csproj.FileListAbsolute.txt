@@ -1,0 +1,13 @@
+C:\csharp\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.exe
+C:\csharp\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.deps.json
+C:\csharp\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.json
+C:\csharp\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.dev.json
+C:\csharp\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.dll
+C:\csharp\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.pdb
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csprojAssemblyReference.cache
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfoInputs.cache
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfo.cs
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csproj.CoreCompileInputs.cache
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.dll
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.pdb
+C:\csharp\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.genruntimeconfig.cache

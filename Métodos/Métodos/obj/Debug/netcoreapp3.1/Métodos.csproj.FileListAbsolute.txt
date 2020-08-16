@@ -1,0 +1,13 @@
+C:\csharp\Métodos\Métodos\bin\Debug\netcoreapp3.1\Métodos.exe
+C:\csharp\Métodos\Métodos\bin\Debug\netcoreapp3.1\Métodos.deps.json
+C:\csharp\Métodos\Métodos\bin\Debug\netcoreapp3.1\Métodos.runtimeconfig.json
+C:\csharp\Métodos\Métodos\bin\Debug\netcoreapp3.1\Métodos.runtimeconfig.dev.json
+C:\csharp\Métodos\Métodos\bin\Debug\netcoreapp3.1\Métodos.dll
+C:\csharp\Métodos\Métodos\bin\Debug\netcoreapp3.1\Métodos.pdb
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.csprojAssemblyReference.cache
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.AssemblyInfoInputs.cache
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.AssemblyInfo.cs
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.csproj.CoreCompileInputs.cache
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.dll
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.pdb
+C:\csharp\Métodos\Métodos\obj\Debug\netcoreapp3.1\Métodos.genruntimeconfig.cache
