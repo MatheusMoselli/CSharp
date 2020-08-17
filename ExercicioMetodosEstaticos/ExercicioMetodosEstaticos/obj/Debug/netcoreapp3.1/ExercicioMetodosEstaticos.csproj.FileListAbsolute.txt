@@ -1,0 +1,13 @@
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.exe
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.deps.json
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.runtimeconfig.json
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.runtimeconfig.dev.json
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.dll
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.pdb
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.csprojAssemblyReference.cache
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.AssemblyInfoInputs.cache
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.AssemblyInfo.cs
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.dll
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.pdb
+C:\csharp\ExercicioMetodosEstaticos\ExercicioMetodosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMetodosEstaticos.genruntimeconfig.cache
