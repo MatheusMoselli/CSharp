@@ -1,0 +1,13 @@
+C:\csharp\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumeracoes.exe
+C:\csharp\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumeracoes.deps.json
+C:\csharp\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.json
+C:\csharp\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumeracoes.runtimeconfig.dev.json
+C:\csharp\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumeracoes.dll
+C:\csharp\Enumerações\Enumerações\bin\Debug\netcoreapp3.1\Enumeracoes.pdb
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.csprojAssemblyReference.cache
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfoInputs.cache
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.AssemblyInfo.cs
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.dll
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.pdb
+C:\csharp\Enumerações\Enumerações\obj\Debug\netcoreapp3.1\Enumeracoes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\csharp\MetodosAbsExe\MetodosAbsExe\bin\Debug\netcoreapp3.1\MetodosAbsExe.exe
+C:\csharp\MetodosAbsExe\MetodosAbsExe\bin\Debug\netcoreapp3.1\MetodosAbsExe.deps.json
+C:\csharp\MetodosAbsExe\MetodosAbsExe\bin\Debug\netcoreapp3.1\MetodosAbsExe.runtimeconfig.json
+C:\csharp\MetodosAbsExe\MetodosAbsExe\bin\Debug\netcoreapp3.1\MetodosAbsExe.runtimeconfig.dev.json
+C:\csharp\MetodosAbsExe\MetodosAbsExe\bin\Debug\netcoreapp3.1\MetodosAbsExe.dll
+C:\csharp\MetodosAbsExe\MetodosAbsExe\bin\Debug\netcoreapp3.1\MetodosAbsExe.pdb
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.csprojAssemblyReference.cache
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.AssemblyInfoInputs.cache
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.AssemblyInfo.cs
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.csproj.CoreCompileInputs.cache
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.dll
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.pdb
+C:\csharp\MetodosAbsExe\MetodosAbsExe\obj\Debug\netcoreapp3.1\MetodosAbsExe.genruntimeconfig.cache

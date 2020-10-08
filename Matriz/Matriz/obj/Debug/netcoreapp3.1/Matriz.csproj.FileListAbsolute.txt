@@ -1,0 +1,13 @@
+C:\csharp\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+C:\csharp\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+C:\csharp\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+C:\csharp\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+C:\csharp\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+C:\csharp\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csprojAssemblyReference.cache
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+C:\csharp\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache

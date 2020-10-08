@@ -1,0 +1,13 @@
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\bin\Debug\netcoreapp3.1\Heranca_ExeProp.exe
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\bin\Debug\netcoreapp3.1\Heranca_ExeProp.deps.json
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\bin\Debug\netcoreapp3.1\Heranca_ExeProp.runtimeconfig.json
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\bin\Debug\netcoreapp3.1\Heranca_ExeProp.runtimeconfig.dev.json
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\bin\Debug\netcoreapp3.1\Heranca_ExeProp.dll
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\bin\Debug\netcoreapp3.1\Heranca_ExeProp.pdb
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.csprojAssemblyReference.cache
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.AssemblyInfoInputs.cache
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.AssemblyInfo.cs
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.csproj.CoreCompileInputs.cache
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.dll
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.pdb
+C:\csharp\Heranca_ExeProp\Heranca_ExeProp\obj\Debug\netcoreapp3.1\Heranca_ExeProp.genruntimeconfig.cache
